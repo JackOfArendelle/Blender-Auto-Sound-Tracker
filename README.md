@@ -9,18 +9,18 @@
 ## ✨ Magical Features
 
 - **🎼 Multi-Source Music Library**  
-  Access over 12 premium music sources including NetEase Cloud Music, Spotify, and more!  
+  Access 10+ premium music sources including NetEase Cloud Music, Spotify, and more!  
 
 - **🤖 AI-Powered Sound Design**  
   Automatically generates realistic sound effects (0.5s-22s) that match your video content  
 
 - **⚡ One-Click Wonder**  
-  From search to timeline - all with a single click!  
+  From download to timeline - all with a single click!  
 
 ## 📦 Installation Guide 🛠️
 
 ### 🔧 Requirements
-- Blender 4.2.8 (recommended)
+- Blender 4.2.8 (recommended) or higher
 - 🌐 Stable internet connection
 - 💾 ~2MB disk space
 
@@ -33,7 +33,7 @@
 ## 🎬 Getting Started 🚀
 
 1. Open Video Sequencer (`Shift + F8`)  
-2. Arrange your video clips
+2. Press `N` to access add-on entrance
 3. Explore the audio wonderland:
    - 🔍 Search across music platforms
    - ⚡ Generate custom sound effect
@@ -56,7 +56,7 @@ The `Default` API Key may not work when experiencing excess usage.
 | **Requests** | Secure API communications |
 
 ### 🌐 Integrated Services
-[![GD-Studio](https://img.shields.io/badge/🎵_GD_Studio_Music_API-00cc66?style=for-the-badge)](https://music-api.gdstudio.xyz/api.php)  
+[![GD-Studio](https://img.shields.io/badge/🎵_GD_Studio_Music_Platform_API-00cc66?style=for-the-badge)](https://music-api.gdstudio.xyz/api.php)  
 [![ElevenLabs](https://img.shields.io/badge/🤖_ElevenLabs_AI_Audio-ff9933?style=for-the-badge)](https://elevenlabs.io/app/settings/api-keys)
 
 ## 📖 Documentation & Support 📚
