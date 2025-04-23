@@ -34,12 +34,11 @@
 
 1. Open Video Sequencer (`Shift + F8`)  
 2. Arrange your video clips
-3. Click the magic wand button:  
-4. Explore the audio wonderland:
+3. Explore the audio wonderland:
    - 🔍 Search across music platforms
    - ⚡ Generate custom sound effect
    - 🎧 Preview before applying
-5. Click apply and watch the magic happen! ✨
+4. Click apply and watch the magic happen! ✨
 
 ## ⚙️ API Key Configuration 🔑
 
