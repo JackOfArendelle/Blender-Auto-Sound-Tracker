@@ -2,6 +2,7 @@
 
 [![Blender](https://img.shields.io/badge/Blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)](https://www.blender.org/)
 [![License](https://img.shields.io/github/license/JackOfArendelle/Blender-Auto-Sound-Tracker?style=for-the-badge)](LICENSE)
+[![中文文档](https://img.shields.io/badge/📖_中文文档-使用说明-blue?style=for-the-badge)](使用说明.md)
 [![Version](https://img.shields.io/badge/Version-0.1.0-ff69b4?style=for-the-badge)]()
 
 🎧 An AI-powered audio wizard for Blender that automatically scores your videos with perfect music and sound effects! 🎶
