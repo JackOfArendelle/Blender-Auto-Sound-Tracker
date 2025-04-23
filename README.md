@@ -61,7 +61,9 @@ The `Default` API Key may not work when experiencing excess usage.
 
 ## 📖 Documentation & Support 📚
 
-[![Bilibili](https://img.shields.io/badge/📺_官方教程_Bilibili-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white)](https://space.bilibili.com/477893108)
+[![Bilibili](https://img.shields.io/badge/📺_Bilibili_Space-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white)](https://space.bilibili.com/477893108)
+
+Full documentation coming soon! For now, please visit our Bilibili channel for video tutorials and support.
 
 ## 📜 License ⚖️
 
