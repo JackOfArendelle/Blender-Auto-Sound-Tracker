@@ -25,7 +25,7 @@
 - 💾 ~2MB disk space
 
 ### 📥 Installation Steps
-1. Download `Auto Sound Tracker v_0_1_0.zip`  
+1. Download the *latest release* `Auto Sound Tracker v_0_1_0.zip` file 👉
 2. In Blender: `Edit > Preferences > Add-ons > Install from Disk`  
 3. Select the downloaded zip file
 4. Enable the add-on (☕ grab a coffee while it installs)
