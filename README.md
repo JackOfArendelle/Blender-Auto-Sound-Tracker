@@ -50,7 +50,7 @@ The `Default` API Key may not work when experiencing excess usage.
 ### 🧩 Core Components
 | Component | Purpose |
 |-----------|---------|
-| **Blender Python API** | Native integration with Video Sequencer |
+| **Blender Python API** | Frontend integration with Video Sequencer |
 | **FFmpeg** | Audio processing and format conversion |
 | **PyAudio** | Real-time audio analysis and playback |
 | **Requests** | Secure API communications |
