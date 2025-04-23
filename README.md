@@ -75,3 +75,8 @@ This project is licensed under the GPL-2.0 License - see the [LICENSE](LICENSE) 
 **Wait Upon A Miracle~**
 
 **Stay tuned for more audio wizardry!** 🧙‍♂️🎶
+
+
+---
+
+> 🎯 Tips: When something unexpected occurs, please make sure your internet connection is stable first ... Or else feel free to `issue ` me.
