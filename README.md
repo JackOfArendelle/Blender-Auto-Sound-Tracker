@@ -1,5 +1,6 @@
 # Blender-Auto-Sound-Tracker 🎵✨🎬
 
+[![Bilibili](https://img.shields.io/badge/📺_Bilibili_Tutorial-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white)](https://www.bilibili.com/video/BV1L7EbzuEQ6/)
 [![Blender](https://img.shields.io/badge/Blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)](https://www.blender.org/)
 [![License](https://img.shields.io/github/license/JackOfArendelle/Blender-Auto-Sound-Tracker?style=for-the-badge)](LICENSE)
 [![中文文档](https://img.shields.io/badge/📖_中文文档-使用说明-blue?style=for-the-badge)](使用说明.md)
@@ -62,9 +63,9 @@ The `Default` API Key may not work when experiencing excess usage.
 
 ## 📖 Documentation & Support 📚
 
-[![Bilibili](https://img.shields.io/badge/📺_Bilibili_Space-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white)](https://space.bilibili.com/477893108)
+[![Bilibili](https://img.shields.io/badge/📺_Bilibili_Tutorial-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white)](https://www.bilibili.com/video/BV1L7EbzuEQ6/)
 
-Full documentation coming soon! For now, please visit our Bilibili channel for video tutorials and support.
+Full documentation has arrived! Please check our **Bilibili Tuturial**.
 
 ## 📜 License ⚖️
 
